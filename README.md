@@ -1,6 +1,9 @@
 # wardogs-crashes
 🛠️Complete fix for game crash and fixes for several other issues🛠️
 
+<img width="843" height="472" alt="image" src="https://github.com/user-attachments/assets/4d2afc76-0785-4930-a6cb-f9cd92366de8" />
+
+
 -🚫 Crashes during long gaming sessions are being fixed.
 
 -🧯 Fixed exception handling that caused the game to close without an error message.
