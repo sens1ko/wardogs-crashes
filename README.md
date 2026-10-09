@@ -10,7 +10,7 @@
 
 -🛠️ Fixes other errors and associated bugs: freezes, crashes, memory issues.
 
--💾 Installation: Download the latest version from the Releases. Run the "crashfix v1.0.3" file (close game).
+-💾 Installation: Download the latest version from the Releases. Run the "crashfix v1.0.4" file (close game).
 
 -🔗 Windows 10/11. Works with most builds and versions.
   Feedback: Found a bug or have a suggestion? Create an Issue or submit a Pull Request.
